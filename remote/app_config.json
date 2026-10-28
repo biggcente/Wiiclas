@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "intervalo_actualizacion_seg": 6,
+  "anuncio": {
+    "activo": true,
+    "tipo": "info",
+    "titulo": "Semana ",
+    "mensaje": "Test de anunciante !! holaa"
+  },
+  "funciones": {
+    "descargas": true,
+    "grabacion": true,
+    "notificaciones_sistema": true
+  },
+  "reproductor": {
+    "velocidades": [
+      0.5,
+      1,
+      1.25,
+      1.5,
+      2
+    ]
+  },
+  "textos": {
+    "saludo": ""
+  }
+}
